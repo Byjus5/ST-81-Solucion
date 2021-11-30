@@ -10,7 +10,7 @@ export default class CreateStory extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Create Story</Text>
+                <Text>Crear historia</Text>
             </View>
         )
     }
