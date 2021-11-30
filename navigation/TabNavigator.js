@@ -27,8 +27,8 @@ const BottomTabNavigator = () => {
                 inactiveTintColor: 'gray',
             }}
         >
-            <Tab.Screen name="Feed" component={Feed} />
-            <Tab.Screen name="CreateStory" component={CreateStory} />
+            <Tab.Screen name="Índice" component={Feed} />
+            <Tab.Screen name="CrearHistoria" component={CreateStory} />
         </Tab.Navigator>
     );
 }
